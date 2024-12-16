@@ -1,3 +1,1 @@
-condaforge/mambaforge
-lfswang/xelatex
 rtibiocloud/pigz

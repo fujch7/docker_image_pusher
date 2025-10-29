@@ -1,1 +1,1 @@
-ecogenomic/gtdbtk
+ubuntu:latest

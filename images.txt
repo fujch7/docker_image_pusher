@@ -1,1 +1,1 @@
-ubuntu:latest
+alpine:latest
